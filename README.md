@@ -1,7 +1,7 @@
 
 # B4F Android SDK!
 
-[![Jitpack](https://jitpack.io/v/Brand4Fans/B4FSDK-Android.svg)](https://jitpack.io/#Brand4Fans/B4FSDK-Android)
+[![Jitpack](https://jitpack.io/v/Brand4Fans/B4F-SDK-Android.svg)](https://jitpack.io/#Brand4Fans/B4FSDK-Android)
 
 [Technical documentation](https://bitbucket.org/baturamobile/b4f-sdk-android/src/master/)
 
