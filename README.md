@@ -14,7 +14,7 @@ maven { url "https://jitpack.io" }
 
 Add in build.gradle in the app (You need to get the lastest version)
 ```xml
-implementation 'com.b4f.androidsdk:b4fLibrary:{version}'
+implementation 'com.github.Brand4Fans:B4FSDK-Android:{version}'
 ```
 
 # Usage
