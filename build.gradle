@@ -30,5 +30,5 @@ task clean(type: Delete) {
 }
 
 ext{
-    b4f_version = "1.0.5"
+    b4f_version = "1.0.1"
 }

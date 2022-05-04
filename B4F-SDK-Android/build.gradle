@@ -65,7 +65,7 @@ dependencies {
 }
 
 group = 'com.github.Brand4Fans'
-version = '1.0.5'
+version = '1.0.1'
 
 
 // build a jar with javadoc
