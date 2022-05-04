@@ -1,0 +1,3 @@
+include ':app', ':B4FSDK-Android'
+rootProject.name = "Brand4Fans"
+
